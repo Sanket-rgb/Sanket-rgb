@@ -4,8 +4,8 @@ I am Front End developer.
 --------------------------
 *   🌍  I'm based in Edmonds, Washington
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://sanket-koli.netlify.app'>Portfolio</a>
-*   🧠  Currently learning fundamentals in Front-End
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🧠  Currently learning key fundamentals in Front-End
+*   🤝  I'm open for full-time positions as a Front-End Developer
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
