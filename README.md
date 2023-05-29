@@ -4,7 +4,7 @@ I am Front End developer.
 --------------------------
 *   🌍  I'm based in Edmonds, Washington
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://sanket-koli.netlify.app'>Portfolio</a>
-*   🧠  Currently learning Front-End
+*   🧠  Currently learning fundamentals in Front-End
 *   🤝  I'm open to collaborating on interesting projects as a developer
 ### Skills
 <p align="left">
